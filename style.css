@@ -1,0 +1,49 @@
+h1{
+  color:rgb(0, 0, 0);
+}
+
+h2{
+  color:red
+}
+h3{
+  justify-content:flex-end;
+}
+ul{
+  color:purple
+}
+
+p{
+  color:cyan
+}
+
+.header{
+    text-align:center;
+    color:black;
+}
+.fullbody{
+    background-color:#AAAAAA;
+    margin:0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+img{
+  border-style: groove;
+  border-color:khaki;
+}
+.animal{
+  border-radius: 20px;
+  background-color:#ffffff;
+  padding:30px;
+  margin: 25px;
+  width:250px;
+}
+a:link{
+  color:royalblue;
+}
+a:visited{
+  color:pink;
+}
+.animal:hover{
+  transform:scale(1.2) ;
+}
